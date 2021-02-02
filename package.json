@@ -71,7 +71,7 @@
     "scss-parser": "^1.0.4",
     "semver": "^7.3.2",
     "vue-template-compiler": "^2.6.12",
-    "yargs": "^16.1.0"
+    "yargs": "^16.2.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.12.1",
